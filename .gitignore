@@ -1,0 +1,16 @@
+target/
+data/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
